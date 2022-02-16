@@ -1,0 +1,28 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "CLI for getting weather",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "cli",
+    "weather"
+  ],
+  "author": "Alexander Ershov",
+  "license": "ISC",
+  "homepage": "https://xsan.su",
+  "repository": {
+    "type": "git",
+    "url": "https://xsan.su"
+  },
+  "bugs": {
+    "url": "https://xsan.su",
+    "email": "yearshow@yandex.ru"
+  },
+  "dependencies": {
+    "axios": "^0.26.0"
+  }
+}
